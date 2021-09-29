@@ -1,0 +1,27 @@
+{
+  "experience": [
+    {
+      "name": "Pablo Flores",
+      "work": "iOS Developer",
+      "info": "More than 8 years of experience in software design. I specialized in web and mobile applications.",
+      "place": "Mexico City",
+      "skillOne": "Java",
+      "skillTwo": "Swift",
+      "skillThree": "Flutter",
+      "jobs": {
+        "jobOne": " Claro Musica 2014-11-29", 
+        "jobTwo": "Claro Connect 2014-11-28", 
+        "jobThree": "Globant Lending 2014-12-06", 
+        "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21",
+         "jobFour": "Globant Lending Club 2014-11-21"
+      }
+    }
+  ]
+}
